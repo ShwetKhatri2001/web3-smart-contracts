@@ -53,6 +53,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ShwetKhatri2001">
+            <img src="https://avatars.githubusercontent.com/u/56475750?v=4" width="100;" alt="ShwetKhatri2001"/>
+            <br />
+            <sub><b>Shwet Khatri</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adityabhattad2021">
             <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
             <br />
@@ -67,10 +74,10 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ShwetKhatri2001">
-            <img src="https://avatars.githubusercontent.com/u/56475750?v=4" width="100;" alt="ShwetKhatri2001"/>
+        <a href="https://github.com/bartick">
+            <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
             <br />
-            <sub><b>Shwet Khatri</b></sub>
+            <sub><b>Bartick Maiti</b></sub>
         </a>
     </td>
     <td align="center">
@@ -79,20 +86,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Sawan Bhattacharya</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/tsunami03">
             <img src="https://avatars.githubusercontent.com/u/96813639?v=4" width="100;" alt="tsunami03"/>
             <br />
             <sub><b>Priyadarshini Roy</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/bartick">
-            <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
-            <br />
-            <sub><b>Bartick Maiti</b></sub>
         </a>
     </td>
     <td align="center">
